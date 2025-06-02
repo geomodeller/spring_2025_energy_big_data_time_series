@@ -6,7 +6,7 @@
 - 시간 단위 전국 발전단 수요 데이터이며, 수요예측용 잠정자료입니다.  
 - 단위: **MWh**  
 - 해당 데이터는 **육지 및 제주**를 모두 포함합니다.  
-- 출처: [한국전력](https://www.data.go.kr/data/15065266/fileData.do#layer_data_infomation)
+- 출처: [한국전력거래소](https://www.data.go.kr/data/15065266/fileData.do#layer_data_infomation)
 
 ### 🌡️ 기상청_일별 전국평균온도
 - 일별 전국의 **일평균 / 최고 / 최저** 기온 데이터입니다.  
