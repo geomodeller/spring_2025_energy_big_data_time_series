@@ -1,5 +1,16 @@
 # Term Project #3: Hourly Energy Demand in South Korea
+## 📊 RMSE Leaderboard
 
+| 순위 | 팀 이름 | RMSE  |
+|------|--------|-------|
+| 1    | 팀 C   | inf |
+| 2    | 팀 A   | inf |
+| 3    | 팀 B   | inf |
+| 4    | 팀 D   | inf |
+
+> 🔁 가장 최근 제출 중 **가장 낮은 RMSE**만 기록됩니다.
+
+---
 ## 1. About the Dataset
 
 ### 📊 한국전력거래소_시간별 전국 전력수요량
