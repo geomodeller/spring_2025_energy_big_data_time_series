@@ -9,12 +9,8 @@
 | 4    | 팀 D    | 7107.612 |
 
 > 🔁 가장 최근 제출 중 **가장 낮은 RMSE**만 기록됩니다.
-> ⏱️ 마지막 업데이트: 2025-06-13 11:07 (KST)
-
-![RMSE Submission Graph](rmse_submission_graph.png) 마지막 업데이트: 2025-06-13 11:06 (KST)
-
+> ⏱️ 마지막 업데이트: 2025-06-13 11:09 (KST)
 ![RMSE Submission Graph](rmse_submission_graph.png)
-
 
 ---
 ## 1. About the Dataset
