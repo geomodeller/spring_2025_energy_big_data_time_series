@@ -88,16 +88,3 @@
 | 20250613_101128_power_demand_in_2023_team_C.csv | Input contains NaN. |
 | 20250614_171001_power_demand_in_2023_team_B.csv | 'values' |
 | 20250614_172025_power_demand_in_2023_team_B.csv | 'values' |
-
-
-
-## ⚠️ Error Log (형식 오류 또는 처리 실패)
-| 파일명 | 에러 내용 |
-|--------|------------|
-| 20250612_223125_power_demand_in_2023_team_[A].csv | 팀명을 인식할 수 없음 (team_[A-D] 형식 아님) |
-| 20250612_223455_2023_PW_Prediction.csv | 팀명을 인식할 수 없음 (team_[A-D] 형식 아님) |
-| 20250612_234855_power_demand_in_2023_team_[A].csv | 팀명을 인식할 수 없음 (team_[A-D] 형식 아님) |
-| 20250613_101128_power_demand_in_2023_team_C.csv | Input contains NaN. |
-| 20250614_171001_power_demand_in_2023_team_B.csv | 'values' |
-| 20250614_172025_power_demand_in_2023_team_B.csv | 'values' |
-
