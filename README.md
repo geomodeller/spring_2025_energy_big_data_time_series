@@ -1,4 +1,7 @@
 # Term Project #3: Hourly Energy Demand in South Korea
+
+![group photo](group_photo.png)
+
 ## 📊 RMSE Leaderboard
 
 | 순위 | 팀 이름 |   RMSE   |
