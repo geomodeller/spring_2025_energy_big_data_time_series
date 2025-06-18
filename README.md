@@ -10,24 +10,26 @@
 
 > 🔁 가장 최근 제출 중 **가장 낮은 RMSE**만 기록됩니다.
 > ⏱️ 마지막 업데이트: 2025-06-18 13:47 (KST)
-![RMSE Submission Graph](rmse_submission.png)
-[Team Best RMSE Predictions](team_best_predictions.png)
 
 ---
 
-## ⚠️ Error Log (형식 오류 또는 처리 실패)
-| 파일명 | 에러 내용 |
-|--------|------------|
-| 20250612_223125_power_demand_in_2023_team_[A].csv | 팀명을 인식할 수 없음 (team_[A-D] 형식 아님) |
-| 20250612_223455_2023_PW_Prediction.csv | 팀명을 인식할 수 없음 (team_[A-D] 형식 아님) |
-| 20250612_234855_power_demand_in_2023_team_[A].csv | 팀명을 인식할 수 없음 (team_[A-D] 형식 아님) |
-| 20250614_171001_power_demand_in_2023_team_B.csv | 'values' |
-| 20250614_172025_power_demand_in_2023_team_B.csv | 'values' |
-| 20250616_201809_power_demand_in_2023_team_D.csv | Found input variables with inconsistent numbers of samples: [8760, 365] |
-| 20250616_232819_power_demand_in_2023_team_B.csv | Found input variables with inconsistent numbers of samples: [8760, 8568] |
-| 20250616_232904_power_demand_in_2023_team_B.csv | Found input variables with inconsistent numbers of samples: [8760, 8568] |
-| 20250617_164318_power_demand_in_2023_team_B.csv | Input contains NaN. |
-| 20250617_165138_power_demand_in_2023_team_B.csv | Input contains NaN. |
+## 📈 팀별 최고 제출 결과 vs Ground Truth
+
+### 🥇 1등 - Team A  
+**조원:** 김채린, 김하영, 박은영  
+![Team Team A](team_prediction_vs_truth_a.png)
+
+### 🥈 2등 - Team B  
+**조원:** 최찬우, 양현규, 손동준, 어진우 
+![Team Team B](team_prediction_vs_truth_b.png)
+
+### 🥉 3등 - Team C  
+**조원:** 유경원, 유상규, 박준하
+![Team Team C](team_prediction_vs_truth_c.png)
+
+### 🎯 4등 - Team D  
+**조원:** 이지민, 박태열, 김동희, 고재혁
+![Team Team D](team_prediction_vs_truth_d.png)
 
 ---
 
@@ -95,7 +97,25 @@
 👨‍🏫 편석준 교수님  
 👨‍💻 조홍근, 박은실, 설정환
 
+![RMSE Submission Graph](rmse_submission.png)
 
+---
+
+## ⚠️ Error Log (형식 오류 또는 처리 실패)
+| 파일명 | 에러 내용 |
+|--------|------------|
+| 20250612_223125_power_demand_in_2023_team_[A].csv | 팀명을 인식할 수 없음 (team_[A-D] 형식 아님) |
+| 20250612_223455_2023_PW_Prediction.csv | 팀명을 인식할 수 없음 (team_[A-D] 형식 아님) |
+| 20250612_234855_power_demand_in_2023_team_[A].csv | 팀명을 인식할 수 없음 (team_[A-D] 형식 아님) |
+| 20250614_171001_power_demand_in_2023_team_B.csv | 'values' |
+| 20250614_172025_power_demand_in_2023_team_B.csv | 'values' |
+| 20250616_201809_power_demand_in_2023_team_D.csv | Found input variables with inconsistent numbers of samples: [8760, 365] |
+| 20250616_232819_power_demand_in_2023_team_B.csv | Found input variables with inconsistent numbers of samples: [8760, 8568] |
+| 20250616_232904_power_demand_in_2023_team_B.csv | Found input variables with inconsistent numbers of samples: [8760, 8568] |
+| 20250617_164318_power_demand_in_2023_team_B.csv | Input contains NaN. |
+| 20250617_165138_power_demand_in_2023_team_B.csv | Input contains NaN. |
+
+---
 
 
 
